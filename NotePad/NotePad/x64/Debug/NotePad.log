@@ -1,0 +1,3 @@
+﻿  source.cpp
+F:\3rd Semester\DSA\NotePad\NotePad\source.cpp(256,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  NotePad.vcxproj -> F:\3rd Semester\DSA\NotePad\x64\Debug\NotePad.exe

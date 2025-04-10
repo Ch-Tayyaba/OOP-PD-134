@@ -1,0 +1,7 @@
+﻿  Dos.cpp
+F:\3rd Semester\DSA\DosShell\DosShell\Dos.cpp(120,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\DosShell\DosShell\Dos.cpp(162,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\DosShell\DosShell\Dos.cpp(202,11): warning C4129: ' ': unrecognized character escape sequence
+F:\3rd Semester\DSA\DosShell\DosShell\Dos.cpp(202,11): warning C4129: '&': unrecognized character escape sequence
+F:\3rd Semester\DSA\DosShell\DosShell\Dos.cpp(217,11): warning C4129: '&': unrecognized character escape sequence
+  DosShell.vcxproj -> F:\3rd Semester\DSA\DosShell\x64\Debug\DosShell.exe
